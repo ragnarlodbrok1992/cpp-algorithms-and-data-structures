@@ -9,7 +9,7 @@ int main(int argc, char** argv) {
         printNoArgs();
         return 0;
     } else {
-
+        // Get parameters
     }
 
     return 0;
